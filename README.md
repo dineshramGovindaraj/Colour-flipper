@@ -6,7 +6,7 @@ The Color Flipper is a simple web application that generates random colors and a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/color-flipper.git
+git clone https://github.com/dineshramGovindaraj/Colour-flipper
 
 2. Navigate to the project directory:
 
